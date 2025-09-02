@@ -5,7 +5,7 @@
 
 2. Place the file into the /plugins/ directory of your fm-dx-webserver installation.
 
-3.Restart the fm-dx-webserver. And activate the plugin in Admin Panel.
+  3.Restart the fm-dx-webserver. And activate the plugin in Admin Panel.
 
 This project was made possible by the main method of connecting to the webserver's audio stream shown in the "Peakmeter" plugin by Highpoint.
 
