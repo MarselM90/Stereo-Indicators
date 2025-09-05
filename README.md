@@ -35,4 +35,6 @@ Mobile: Disabled
 
  This project was made possible by the main method of connecting to the webserver's audio stream shown in the "Peakmeter" plugin by Highpoint.
 
- This plugin was designed with the help of AI for code generation and documentation.
+This plugin was designed with assistance from ChatGPT for code generation and documentation.
+
+Provided as-is, free for personal and non-commercial use. Attribution appreciated.
